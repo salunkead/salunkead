@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amol Salunke,
+- 👋 Hi, I’m Himanshu,
 - I'm a Design Verification Engineer, passionate about coding. Currently, I work as a design verification engineer and enjoy coding in Verilog and SystemVerilog. 
 - 🧠 **Key Skills:** ... Verilog,SystemVerilog,C,C++,Python.
 - 🌱 **I’m currently learning:** ... SoC Design Verification
